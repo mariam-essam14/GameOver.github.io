@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/GameOver.github.io/static/css/main.28578f8d.css",
+    "main.js": "/GameOver.github.io/static/js/main.7363b1a7.js",
+    "static/js/787.3a3963b6.chunk.js": "/GameOver.github.io/static/js/787.3a3963b6.chunk.js",
+    "static/media/fa-solid-900.ttf": "/GameOver.github.io/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/paladins.png": "/GameOver.github.io/static/media/paladins.b44d33d6e7ee1ba8.0fddd1fbe0a5e0a0af93.png",
+    "static/media/gaming.jpg": "/GameOver.github.io/static/media/gaming.ebaf2ffc84f4451d.d5751ff804c935b205d3.jpg",
+    "static/media/fa-brands-400.ttf": "/GameOver.github.io/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/logo.png": "/GameOver.github.io/static/media/logo.548dc5719c2345c22eef.png",
+    "static/media/fa-solid-900.woff2": "/GameOver.github.io/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/GameOver.github.io/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/404.png": "/GameOver.github.io/static/media/404.ecdece6afda41e16a361.png",
+    "static/media/fa-regular-400.ttf": "/GameOver.github.io/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/GameOver.github.io/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/GameOver.github.io/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/GameOver.github.io/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/GameOver.github.io/index.html",
+    "main.28578f8d.css.map": "/GameOver.github.io/static/css/main.28578f8d.css.map",
+    "main.7363b1a7.js.map": "/GameOver.github.io/static/js/main.7363b1a7.js.map",
+    "787.3a3963b6.chunk.js.map": "/GameOver.github.io/static/js/787.3a3963b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28578f8d.css",
+    "static/js/main.7363b1a7.js"
+  ]
+}
